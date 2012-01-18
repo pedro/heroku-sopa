@@ -25,7 +25,7 @@ Usage
 About
 -----
 
-Written by Pedro Belo.
+Written by Pedro Belo. Thanks Caley Woods for the idea!
 
 
 [1]: http://devcenter.heroku.com/articles/custom-error-pages
