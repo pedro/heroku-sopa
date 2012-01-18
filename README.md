@@ -19,5 +19,11 @@ Usage
     SOPA protest disabled
 
 
+About
+-----
+
+Written by Pedro Belo.
+
+
 [1]: http://devcenter.heroku.com/articles/custom-error-pages
 [2]: https://www.google.com/landing/takeaction/
