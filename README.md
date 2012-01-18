@@ -12,6 +12,9 @@ Keep in mind it will override any existing MAINTENANCE_PAGE_URL on the app.
 Usage
 -----
 
+    $ heroku plugins:install git@github.com:pedro/heroku-sopa.git
+    heroku-sopa installed
+
     $ heroku sopa:on
     SOPA protest is now enabled
 
